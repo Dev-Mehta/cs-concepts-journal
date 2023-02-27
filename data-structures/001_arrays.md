@@ -1,8 +1,5 @@
 # Arrays
 
-```toc
-```
-
 Arrays store elements in contiguous memory locations, resulting in easily calculable addresses for the elements stored and this allows faster access to an element at a specific index.
 
 For example, an array of ten `32-bit (4-byte)` integer variables, with indices 0 through 9, may be stored as ten words at memory addresses 2000, 2004, 2008, ..., 2036, so that the element with index i has the address `2000 + (i × 4)`. The memory address of the first element of an array is called first address, foundation address, or base address. 
