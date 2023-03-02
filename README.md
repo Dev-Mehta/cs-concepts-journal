@@ -5,7 +5,7 @@ I am aiming to study new topic each day, and also make notes about it here.
 # Topics Completed
 ## Data Structures
 - [Arrays](./data-structures/001_arrays.md)
-
+- [Linked Lists](./data-structures/002_linked_lists.md)
 # How to Use
 
 The notes are organized by topics, which are stored in separate folders. 
