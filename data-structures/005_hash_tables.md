@@ -79,8 +79,3 @@ This assumption generalizes the details of the hash function and allows for cert
 
 [See this for full proof](https://en.wikipedia.org/wiki/SUHA_(computer_science))
 
----- 
-
-This document is still work in progr......
-
-[Source for notes](https://www.youtube.com/watch?v=0M_kIqhwbFo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb&index=11)
