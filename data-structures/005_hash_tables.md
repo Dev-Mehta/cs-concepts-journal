@@ -68,6 +68,7 @@ The only question is why would you expect it to be any good?
 - Worst case: You have a fancy data structure with a linked list disguised as hash-table. > O(n) time complexity.
 
 But it can be proved that chaining is indeed a good method(under a given assumption).
+
 #### Proof - Under an assumption
 Simple uniform hashing assumption - In computer science, SUHA (Simple Uniform Hashing Assumption) is a basic assumption that facilitates the mathematical analysis of hash tables. 
 	
