@@ -13,6 +13,7 @@ I am aiming to study new topic each day, and also make notes about it here.
 	- [Circular Queues](./data-structures/004_queues.md#circular-queues)
 	- [Priority Queues](./data-structures/004_queues.md#priority-queues)
 - [Hash Tables](./data-structures/005_hash_tables.md)
+- [Binary Trees](./data-structures/trees/001_binary_trees.md)
 # How to Use
 
 The notes are organized by topics, which are stored in separate folders. 
