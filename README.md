@@ -4,17 +4,21 @@ I am aiming to study new topic each day, and also make notes about it here.
 
 # Topics Completed
 ## Data Structures
-- [Arrays](./data-structures/001_arrays.md)
-- [Linked Lists](./data-structures/002_linked_lists.md)
-- [Stacks](./data-structures/003_stacks.md)
-- [Queues](./data-structures/004_queues.md)
-	- [Amortized Queues](./data-structures/004_queues.md#amortized-queue)
-	- [Real-Time Queues](./data-structures/004_queues.md#real-time-queues)
-	- [Circular Queues](./data-structures/004_queues.md#circular-queues)
-	- [Priority Queues](./data-structures/004_queues.md#priority-queues)
-- [Hash Tables](./data-structures/005_hash_tables.md)
-- [Binary Trees](./data-structures/006_trees/001_binary_tree.md)
-- [Binary Search Trees](./data-structures/006_trees/002_binary_search_trees.md)
+- [Arrays](./001_data-structures/001_arrays.md)
+- [Linked Lists](./001_data-structures/002_linked_lists.md)
+- [Stacks](./001_data-structures/003_stacks.md)
+- [Queues](./001_data-structures/004_queues.md)
+	- [Amortized Queues](./001_data-structures/004_queues.md#amortized-queue)
+	- [Real-Time Queues](./001_data-structures/004_queues.md#real-time-queues)
+	- [Circular Queues](./001_data-structures/004_queues.md#circular-queues)
+	- [Priority Queues](./001_data-structures/004_queues.md#priority-queues)
+- [Hash Tables](./001_data-structures/005_hash_tables.md)
+- [Binary Trees](./001_data-structures/006_trees/001_binary_tree.md)
+- [Binary Search Trees](./001_data-structures/006_trees/002_binary_search_trees.md)
+
+## Caching
+- [LRU](./002_caching/001_lru.md)
+
 # How to Use
 
 The notes are organized by topics, which are stored in separate folders. 
