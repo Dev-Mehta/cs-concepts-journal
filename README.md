@@ -18,7 +18,7 @@ I am aiming to study new topic each day, and also make notes about it here.
 
 ## Caching
 - [LRU](./002_caching/001_lru.md)
-
+- [LFU](./002_caching/002_lfu.md)
 # How to Use
 
 The notes are organized by topics, which are stored in separate folders. 
