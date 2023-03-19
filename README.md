@@ -20,6 +20,11 @@ I am aiming to study new topic each day, and also make notes about it here.
 - [LRU](./002_caching/001_lru.md)
 - [LFU](./002_caching/002_lfu.md)
 - [MFU](./002_caching/003_mfu.md)
+
+## Endianness
+
+- [Big Endian and Little Endian](./003_endianness/001_endianness.md)
+
 # How to Use
 
 The notes are organized by topics, which are stored in separate folders. 
